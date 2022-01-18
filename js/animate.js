@@ -7,7 +7,6 @@ btn.name = "toggleButton";
 btn.id = "togBtn";
 btnDiv.appendChild(btn);
 
-
 //onClick for Toggle Button
 var element = document.getElementById("togBtn");
 element.onclick = function(event) {
