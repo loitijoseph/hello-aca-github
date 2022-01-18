@@ -2,7 +2,7 @@
 
 let btn = document.createElement("button");
 var btnDiv = document.getElementById("toggle-button");
-btn.innerHTML = "Toggle";
+btn.innerHTML = "Click Me";
 btn.name = "toggle-button";
 btn.id = "togBtn";
 btnDiv.appendChild(btn);
