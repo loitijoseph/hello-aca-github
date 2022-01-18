@@ -17,7 +17,7 @@ element.onclick = function(event) {
     btn.innerHTML = "Show Hidden Text";
   } else {
     toglBtn.innerHTML = "ACA just taught me about continuous integration and continuous deployment.";
-    btn.innerHTML = "Hide text";
+    btn.innerHTML = "Hide Text";
     ;
   }
 }
